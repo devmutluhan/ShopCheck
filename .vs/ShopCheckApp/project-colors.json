@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "edc84c5e-096d-4fcf-939d-63b2994e308f": {
+      "ProjectGuid": "edc84c5e-096d-4fcf-939d-63b2994e308f",
+      "DisplayName": "Entities",
+      "ColorIndex": 0
+    },
+    "917444b3-01b3-4423-9a99-2e7659c2c789": {
+      "ProjectGuid": "917444b3-01b3-4423-9a99-2e7659c2c789",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 1
+    },
+    "8c84793f-a55e-4bd6-9918-8a84a43dd836": {
+      "ProjectGuid": "8c84793f-a55e-4bd6-9918-8a84a43dd836",
+      "DisplayName": "BusinessLayer",
+      "ColorIndex": 2
+    },
+    "531fbae5-b9f4-4d29-a938-c103e75477e4": {
+      "ProjectGuid": "531fbae5-b9f4-4d29-a938-c103e75477e4",
+      "DisplayName": "Models",
+      "ColorIndex": 3
+    },
+    "2b2eb191-9e33-4f14-af76-be8cab4589a0": {
+      "ProjectGuid": "2b2eb191-9e33-4f14-af76-be8cab4589a0",
+      "DisplayName": "ShopCheckWebApp",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Hubballi&display=swap" rel="stylesheet">
+    <title>Müşteriler</title>
+</head>
+<body>
+    <header>
+        <h1>ShopCheck</h1><br><br>
+        <a href="/" class="button">Müşteri Sayfası </a>
+        <a href="/product" class="button">Ürünler Sayfası</a>
+        <a href="/sales" class="button">Satışlar Sayfası</a>
+    </header><br>
+    <article>
+        <label class="input-container">
+            <h4>Müşteri Ekleme</h4><hr>
+            <div class="input">
+                <input type="text" placeholder="İsim" id="name">
+                <input type="text" placeholder="Soyisim" id="surName">
+                <input type="text" placeholder="Telefon Numarası" id="phone">
+                <input type="text" placeholder="Adres" id="address">
+                <button type="button" id="addButton">Ekle</button>
+            </div>
+        </label>
+        <label class="list-container">
+            <h4>Müşteri Listesi</h4><hr>
+            <table class="list">
+
+            </table>
+        </label>
+    </article>
+    <script src="~/js/scriptcustomer.js"></script>
+</body>
+</html>
+
+
